@@ -15,3 +15,4 @@ add feature 5.6
 add main test 6
 add feature 6
 add main 7
+add feature 7
