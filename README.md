@@ -5,3 +5,4 @@ add main test 1
 add feature 2
 add main test 2
 add feature 3
+add main test 3
